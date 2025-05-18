@@ -56,10 +56,9 @@ Connects farmers directly with buyers to eliminate middlemen.
 
 🎥 **SmartAgri Dashboard Preview**
 
-https://user-images.githubusercontent.com/yourusername/yourvideo.mp4  
-*(Upload the MP4 to GitHub or use a public YouTube embed link)*
+[https://github.com/SaiSundar-S/smart-agriculture-management-system/blob/main/SMARTAGRI.mp4  ]
 
-Or embed a YouTube video like this:
+
 
 ```html
 <video width="100%" controls>
