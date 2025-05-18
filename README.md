@@ -1,6 +1,5 @@
 # 🌾 SMARTAGRI – Smart Agriculture Management System
 
-![SmartAgri Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmliNndlbXphN3ZxNWh0ZHY5a3VhaGV6MHphMW8xeDczYXAzY2xxMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MFfP0X60vYg3bfeKls/giphy.gif)
 
 SmartAgri is a unified, scalable, and AI-powered platform that empowers farmers with smart recommendations, real-time crop monitoring, and direct-to-customer marketing. Built using Django and ML, it automates decision-making for sustainable and profitable agriculture.
 
@@ -21,7 +20,7 @@ SmartAgri is a unified, scalable, and AI-powered platform that empowers farmers 
 
 🎬 Watch how SmartAgri works in just seconds!
 
-![SmartAgri Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTdlcDBzNHl5bTVvMGRlNGQzd3F4bnNycXRjcGRwdzlvZzR2NjZsNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif)
+
 
 ---
 
