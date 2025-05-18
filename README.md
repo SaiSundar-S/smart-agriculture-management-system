@@ -14,13 +14,6 @@ SmartAgri is a unified, scalable, and AI-powered platform that empowers farmers 
 📊 Real-time Weather & Soil Integration  
 📈 Dashboard Visualizations
 
----
-
-## 📽️ Demo Animation
-
-🎬 Watch how SmartAgri works in just seconds!
-
-
 
 ---
 
