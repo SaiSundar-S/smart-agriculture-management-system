@@ -1,0 +1,65 @@
+Fertilizer,Cost in India,Avg Cost,Quantity,Application Type
+Urea,₹267 per 45 kg bag (subsidized),267,45 kg bag,Soil
+Single Super Phosphate (SSP),₹380 per 50 kg bag,380,50 kg bag,Soil
+Gypsum,₹200-₹300 per 50 kg bag,250,50 kg bag,Soil
+Farmyard Manure (FYM),₹100-₹300 per 50 kg bag,200,50 kg bag,Soil
+Poultry Manure,₹200-₹400 per 50 kg bag,300,50 kg bag,Soil
+Rock Phosphate,₹400-₹500 per 50 kg bag,450,50 kg bag,Soil
+Ferrous Sulphate,₹500-₹700 per 50 kg bag,600,50 kg bag,Soil
+Iron Chelate,₹500-₹700 per kg,600,kg,Soil
+Copper Sulphate,₹600-₹800 per kg,700,kg,Soil
+Ammonium Chloride,₹700-₹900 per 50 kg bag,800,50 kg bag,Soil
+Ammonium Sulphate,₹700-₹900 per 50 kg bag,800,50 kg bag,Soil
+Zinc Sulphate,₹750-₹850 per 25 kg bag,800,25 kg bag,Soil
+Boron (Borax),₹700-₹900 per kg,800,kg,Soil
+Calcium Phosphate,"₹700-₹1,000 per 25 kg bag",850,25 kg bag,Soil
+Di-Ammonium Phosphate (DAP),"₹1,350 per 50 kg bag (subsidized)",1350,50 kg bag,Soil
+Calcium Ammonium Nitrate (CAN),"₹1,350 per 50 kg bag",1350,50 kg bag,Soil
+NPK 12:32:16,"₹1,175 per 50 kg bag",1175,50 kg bag,Soil
+NPK 10:26:26,"₹1,200 per 50 kg bag",1200,50 kg bag,Soil
+NPK 20:20:0:13,"₹1,200 per 50 kg bag",1200,50 kg bag,Soil
+Calcium Nitrate,"₹1,200-₹1,500 per 25 kg bag",1350,25 kg bag,Soil
+NPK 14:35:14,"₹1,250 per 50 kg bag",1250,50 kg bag,Soil
+Magnesium Sulphate,"₹1,000-₹1,200 per 25 kg bag",1100,25 kg bag,Soil
+Calcium Magnesium Phosphate,"₹1,200-₹1,500 per 50 kg bag",1350,50 kg bag,Soil
+Nitro-Phosphate,"₹1,500-₹1,800 per 50 kg bag",1650,50 kg bag,Soil
+Sodium Nitrate,"₹2,500-₹3,000 per 50 kg bag",2750,50 kg bag,Soil
+Sulphate of Potash (SOP),"₹2,500-₹3,000 per 50 kg bag",2750,50 kg bag,Soil
+Potassium Chloride (KCl),"₹2,500-₹3,000 per 50 kg bag",2750,50 kg bag,Soil
+Ammonium Thiosulphate,"₹2,000-₹2,500 per 25 kg bag",2250,25 kg bag,Soil
+Magnesium Chloride,"₹2,000-₹2,500 per 25 kg bag",2250,25 kg bag,Soil
+Muriate of Potash (MOP),"₹1,700 per 50 kg bag (subsidized)",1700,50 kg bag,Soil
+Ammonium Nitrate,"₹1,800-₹2,000 per 50 kg bag",1900,50 kg bag,Soil
+Magnesium Nitrate,"₹3,500-₹4,000 per 25 kg bag",3750,25 kg bag,Soil
+Magnesium Nitrate Hexahydrate,"₹3,500-₹4,000 per 25 kg bag",3750,25 kg bag,Soil
+Potassium Nitrate,"₹3,500-₹4,000 per 50 kg bag",3750,50 kg bag,Soil
+Mono-Ammonium Phosphate (MAP),"₹3,000-₹3,500 per 25 kg bag",3250,25 kg bag,Soil
+Polyhalite,"₹4,000-₹5,000 per 50 kg bag",4500,50 kg bag,Soil
+Mono-Potassium Phosphate (MKP),"₹4,000-₹4,500 per 25 kg bag",4250,25 kg bag,Soil
+Potassium Sulphate,"₹2,800-₹3,200 per 25 kg bag",3000,25 kg bag,Soil
+Sulphur-Coated Urea,"₹3,000-₹3,500 per 50 kg bag",3250,50 kg bag,Soil
+Sodium Molybdate,"₹3,000-₹3,500 per kg",3250,kg,Soil
+Calcium Chloride,"₹1,500-₹2,000 per 25 kg bag",1750,25 kg bag,Soil
+Vermicompost,₹300-₹500 per 50 kg bag,400,50 kg bag,Soil
+Neem Cake,₹500-₹800 per 50 kg bag,650,50 kg bag,Soil
+Bone Meal,₹400-₹600 per 50 kg bag,500,50 kg bag,Soil
+Fish Meal,"₹800-₹1,200 per 50 kg bag",1000,50 kg bag,Soil
+Seaweed Extract,₹500-₹700 per liter,600,liter,Soil
+Humic Acid,₹300-₹500 per liter,400,liter,Soil
+Fulvic Acid,₹300-₹500 per liter,400,liter,Soil
+Poultry Litter,₹200-₹400 per 50 kg bag,300,50 kg bag,Soil
+Wood Ash,₹200-₹300 per 50 kg bag,250,50 kg bag,Soil
+Green Manure,"Varies (typically free or low cost, depends on availability)",,Varies,Soil
+Blood Meal,₹600-₹900 per kg,750,kg,Soil
+Feather Meal,₹500-₹700 per 50 kg bag,600,50 kg bag,Soil
+Cottonseed Meal,₹600-₹900 per 50 kg bag,750,50 kg bag,Soil
+Soybean Meal,"₹700-₹1,000 per 50 kg bag",850,50 kg bag,Soil
+Alfalfa Meal,₹600-₹900 per 50 kg bag,750,50 kg bag,Soil
+Guano,"₹1,000-₹1,500 per 50 kg bag",1250,50 kg bag,Soil
+Kelp Meal,"₹800-₹1,200 per 50 kg bag",1000,50 kg bag,Soil
+Compost Tea,₹100-₹150 per liter,125,liter,Soil
+Biochar,₹500-₹700 per 50 kg bag,600,50 kg bag,Soil
+Cow Manure,₹100-₹300 per 50 kg bag,200,50 kg bag,Soil
+Sheep Manure,₹100-₹300 per 50 kg bag,200,50 kg bag,Soil
+Horse Manure,₹100-₹300 per 50 kg bag,200,50 kg bag,Soil
+Rabbit Manure,₹200-₹400 per 50 kg bag,300,50 kg bag,Soil

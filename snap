@@ -1,0 +1,52 @@
+# Import required libraries
+import tensorflow as tf
+from tensorflow import keras
+import os
+
+# Set parameters
+image_size = 224
+batch_size = 32
+epochs = 25
+base_dir = "path/to/plantvillage/dataset"
+train_dir = os.path.join(base_dir, "train")
+test_dir = os.path.join(base_dir, "valid")
+
+# Data preprocessing and augmentation
+train_datagen = keras.preprocessing.image.ImageDataGenerator(
+    rescale=1/255.0,
+    shear_range=0.2,
+    zoom_range=0.2,
+    width_shift_range=0.2,
+    height_shift_range=0.2,
+    fill_mode="nearest"
+)
+test_datagen = keras.preprocessing.image.ImageDataGenerator(rescale=1/255.0)
+
+train_data = train_datagen.flow_from_directory(train_dir, target_size=(image_size, image_size),
+                                                batch_size=batch_size, class_mode="categorical")
+test_data = test_datagen.flow_from_directory(test_dir, target_size=(image_size, image_size),
+                                              batch_size=batch_size, class_mode="categorical")
+
+# Model architecture
+model = keras.Sequential([
+    keras.layers.Conv2D(32, (3, 3), activation="relu", input_shape=(image_size, image_size, 3)),
+    keras.layers.MaxPooling2D(2, 2),
+    keras.layers.Conv2D(64, (3, 3), activation="relu"),
+    keras.layers.MaxPooling2D(2, 2),
+    keras.layers.Flatten(),
+    keras.layers.Dense(128, activation="relu"),
+    keras.layers.Dense(train_data.num_classes, activation="softmax")
+])
+
+# Compile the model
+model.compile(optimizer="adam", loss="categorical_crossentropy", metrics=["accuracy"])
+
+# Train the model
+history = model.fit(train_data, validation_data=test_data, epochs=epochs)
+
+# Save the model
+model.save("plant_disease_model.h5")
+
+# Evaluate the model
+loss, accuracy = model.evaluate(test_data)
+print(f"Test Accuracy: {accuracy:.2f}")
