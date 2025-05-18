@@ -191,7 +191,7 @@ import requests
 from datetime import datetime, timedelta
 
 # Replace with your OpenWeatherMap API key
-API_KEY_OPENWEATHER = '2f946b6fefbbccd3569c25a7b56ea618'
+API_KEY_OPENWEATHER = '----API KEY----------'
 
 def fetch_forecast_and_history(lat, lon):
     # Fetch 15-day forecast
