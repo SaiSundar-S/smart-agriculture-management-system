@@ -60,12 +60,11 @@ Connects farmers directly with buyers to eliminate middlemen.
 
 
 
-```html
 <video width="100%" controls>
-  <source src=https://github.com/SaiSundar-S/smart-agriculture-management-system/blob/main/SMARTAGRI.mp4 type="video/mp4">
+  <source src="https://raw.githubusercontent.com/SaiSundar-S/smart-agriculture-management-system/main/SMARTAGRI.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-```
+
 
 
 
