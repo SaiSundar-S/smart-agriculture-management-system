@@ -99,5 +99,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🌐 Live Preview 
 
-[![Deployed App](https://img.shields.io/badge/View-Live%20App-blue?style=for-the-badge&logo=github)](https://your-deployed-link-here.com)
+[![Deployed App]([https://img.shields.io/badge/View-Live%20App-blue?style=for-the-badge&logo=github](https://github.com/SaiSundar-S/smart-agriculture-management-system/blob/main/README.md))]([https://your-deployed-link-here.com](https://github.com/SaiSundar-S/smart-agriculture-management-system/blob/main/README.md))
 
